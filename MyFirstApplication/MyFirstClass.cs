@@ -9,7 +9,8 @@ namespace MyFirstApplication
     {
         public static string MyFirstMethod()
         {
-            return "This is my first method!";
+            string result = "This is my first method!";
+            return result;
         }
     }
 }
